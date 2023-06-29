@@ -1,0 +1,26 @@
+{
+  "a": {
+    "class": [
+      "abcde",
+      "fghij"
+    ],
+    "value": {
+      "key": "vwxyz",
+      "b": "vwxyz"
+    },
+    "newvalue": {
+      "key": "vwxyz",
+      "b": "vwxyz"
+    }
+  },
+  "b": {
+    "class": [
+      "abcde",
+      "fghij"
+    ],
+    "value": {
+      "key": "vwxyz",
+      "b": "vwxyz"
+    }
+  }
+}
